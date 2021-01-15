@@ -8,7 +8,7 @@ layout: default
 
 Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 
-[2021年](./210116_diary.html).
+[2021年](./210116_diary.html)
 
 There should be whitespace between paragraphs.
 
