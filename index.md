@@ -2,11 +2,7 @@
 layout: default
 ---
 
-2021年1月10日
-
-![2021年1月10日](./assets/images/210110_00001.png)
-
-Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
+日記
 
 [2021年](./210116_diary.html)
 
